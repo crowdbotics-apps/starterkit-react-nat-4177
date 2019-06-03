@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT starterkit_react_nat_4177.wsgi:application
